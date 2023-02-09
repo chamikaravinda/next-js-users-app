@@ -26,6 +26,7 @@ nav a {
 }
 nav .logo {
   margin-right: auto;
+  margin-bottom: -5px;
 }
 footer {
   display: block;
